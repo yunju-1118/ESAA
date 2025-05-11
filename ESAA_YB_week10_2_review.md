@@ -1,3 +1,5 @@
+https://www.notion.so/2025-05-09-1f0dcd5c0b6e8008a134fca72f7feac7?pvs=4
+
 # 2025.05.09
 
 🔗 [https://www.kaggle.com/code/ambrosm/pss4e5-eda-which-makes-sense#Flood-prediction:-EDA-which-makes-sense](https://www.kaggle.com/code/ambrosm/pss4e5-eda-which-makes-sense#Flood-prediction:-EDA-which-makes-sense)
