@@ -1,3 +1,5 @@
+https://www.notion.so/2025-05-19-1f7dcd5c0b6e80a6b2e3c8e457fdd1f5?pvs=4
+
 # 2025.05.19
 
 🔗 [https://www.kaggle.com/code/satyaprakashshukl/predict-podcast-listening-time](https://www.kaggle.com/code/satyaprakashshukl/predict-podcast-listening-time)
