@@ -1,3 +1,5 @@
+https://www.notion.so/2025-05-26-1fedcd5c0b6e80c8b27aea003d66aed3
+
 # 2025.05.26
 
 🔗 [https://www.kaggle.com/code/sumelahmad/advanced-eda-ml-predictions](https://www.kaggle.com/code/sumelahmad/advanced-eda-ml-predictions)
