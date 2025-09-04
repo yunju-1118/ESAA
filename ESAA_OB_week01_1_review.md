@@ -1,3 +1,5 @@
+https://www.notion.so/2025-09-04-264dcd5c0b6e8032978ceac7a56d003f
+
 # 2025.09.04
 
 🔗 [https://www.kaggle.com/code/allunia/e-commerce-sales-forecast#Focus-on-daily-product-sales-](https://www.kaggle.com/code/allunia/e-commerce-sales-forecast#Focus-on-daily-product-sales-)
