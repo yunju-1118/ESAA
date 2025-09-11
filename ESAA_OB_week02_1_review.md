@@ -1,4 +1,5 @@
 # 2025.09.08
+https://www.notion.so/2025-09-08-26bdcd5c0b6e80fcb704c161ecc8697f
 
 🔗 [https://www.kaggle.com/code/satyaprakashshukl/mushroom-classification-analysis](https://www.kaggle.com/code/satyaprakashshukl/mushroom-classification-analysis)
 
