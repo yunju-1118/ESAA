@@ -1,3 +1,5 @@
+https://www.notion.so/2025-09-15-271dcd5c0b6e8016a8a0c737f37cf1ba
+
 # 2025.09.15
 
 🔗 [https://www.kaggle.com/code/yannisp/sf-crime-analysis-prediction#Data-Preprocessing](https://www.kaggle.com/code/yannisp/sf-crime-analysis-prediction#Data-Preprocessing)
